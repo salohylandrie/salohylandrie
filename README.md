@@ -4,9 +4,9 @@ Je m'appelle Salohy, développeuse passionnée et créatrice de solutions digita
 
 🔧 Compétences :
 
-  🔹 Langages : JavaScript, TypeScript, PHP
+      🔹 Langages : JavaScript, TypeScript, PHP
   
-  🔹 Frameworks :  Angular, React, Symfony
+      🔹 Frameworks :  Angular, React, Symfony
   
 🌱 En apprentissage : Docker, Wordpress
 
@@ -14,7 +14,7 @@ Je m'appelle Salohy, développeuse passionnée et créatrice de solutions digita
 
 📫 Contactez-moi :
 
-  🔹 Email : najorosalohy1@gmail.com
+      🔹 Email : najorosalohy1@gmail.com
   
 🚀 Rejoignez-moi dans mes projets open source et collaboratifs ! 
 
