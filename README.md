@@ -7,6 +7,8 @@ Je m'appelle Salohy, développeuse passionnée et créatrice de solutions digita
       🔹 Langages : JavaScript, TypeScript, PHP
   
       🔹 Frameworks :  Angular, React, Symfony
+
+      🔹Bibliothèque : JQUERY, Bootstrap
   
 🌱 En apprentissage : Docker, Wordpress
 
